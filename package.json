@@ -1,0 +1,22 @@
+{
+  "name": "ngx-material",
+  "version": "0.0.0",
+  "description": "Angular Material",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dharmeshpipariya/ngx-material.git"
+  },
+  "keywords": [
+    "Angular"
+  ],
+  "author": "Dharmesh Pipariya <pipariyadharmesh@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dharmeshpipariya/ngx-material/issues"
+  },
+  "homepage": "https://github.com/dharmeshpipariya/ngx-material#readme"
+}
